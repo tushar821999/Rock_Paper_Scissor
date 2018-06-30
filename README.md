@@ -1,17 +1,18 @@
 # Rock_Paper_Scissor
+Rock Paper Scissor Game GUI Mode using Python 3
 
-This is the sample output of this python game
+# Information About Files
 
-****************************************
-Player 1 Name : tushar verma
+1. rocky.png = Image used in the program
+2. output_screen.png = Final Result of the program
+3. Rock_Paper_Scissor.py = Implementation of the Game
 
-Player Name :  tushar verma
-Computer Name : Frost
-****************************************
+# Module Used
 
-rock (r) , paper (p) , scissors (s) : r
-r vs s
-tushar verma  wins !
-****************************************
+=> Gui Module Used = Tkinter
 
-Developed By Tushar Verma
+=> Image Module Used = Pillow
+
+=> Random Number Module Used = Random
+
+# Developed By Tushar Verma
